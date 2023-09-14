@@ -11,17 +11,19 @@ function product() {
               <strong> 390 /- </strong> 
               </p>
              <div className='product_rating'>
-            <p>⭐⭐⭐⭐</p>
+              <p>
+                ⭐⭐⭐⭐
+              </p>
               
               </div>
         </div>
         
         <img src='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg'/>
-              <button>Add to Cart</button>
+        <button>Add to Cart</button>
         </div>
       
     
-  )
+  );
 }
 
-export default product
+export default product;
