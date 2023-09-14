@@ -13,8 +13,7 @@ function Home(){
            <Product /> 
            
            </div>
-    </div>   
-    <p>leleleleeeelelleeeeeeeelele</p>    
+    </div>    
   </div>
               
 }
