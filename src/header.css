@@ -1,0 +1,114 @@
+.header{
+    height:60px;
+    display:flex;
+    padding-right: 5px;
+    align-items: centre;
+    background-color: rgb(1, 10, 30);
+    position: sticky;
+    top:0;
+    z-index:100;
+}
+
+.header-logo{
+    width:100 px;
+    object-fit: contain;
+    margin: 0 20px;
+    margin-top: 19px;
+    margin-bottom: 10px;
+
+}
+
+.header-search{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    border-radius: 25px;
+}
+
+
+.header-searchicon{
+    padding: 5px;
+    height:  22px !important; 
+    background-color: rgb(210, 145, 59);
+}
+
+.header-searchIN{
+    height:12px;
+    padding:10px;
+    border:none;
+    width: 95%;  
+}
+
+
+.header-flag{
+    height:37px;
+    display:flex;
+    padding-left: 30px;
+    padding-top:10px ;
+    align-items: centre;
+    background-color: rgb(1, 10, 30);
+    position: sticky;
+    top:0;
+
+}
+
+
+.header-nav{
+  display:flex ;
+justify-content: space-evenly;
+
+}
+
+
+.header-opt{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+ 
+
+.header-lang{
+ margin-left: 5opx;
+ margin-right: 5px;
+}
+
+
+.header-dropdown{
+ font-weight: 380 ;
+
+}
+
+.header-ln1{ 
+    
+    margin-top: 10px;
+    font-size: 12px;
+
+}
+
+.header-ln2{
+
+ font-size: 14px;
+ font-weight: 700;
+ 
+
+}
+
+
+.header-dropdown{
+    display: flex;
+    margin-top: 17px;
+}
+
+.header-bascket{
+    display: flex;
+    size-adjust: 20%;
+    align-items: center;
+    color: white;
+}
+
+.header-bascketCNT{
+    margin-left: 3px;
+    margin-right: 3px;
+}
