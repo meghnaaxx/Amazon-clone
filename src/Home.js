@@ -9,10 +9,10 @@ function Home() {
               
 
 
-                <div className="home_row"> 
-                 <Product title='the Lean startup- How Constant Innovations Create Radically Successful Businesses| Paperback' price={399} image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg'  rating={5}/> 
-                 <Product title="'De'Longhi Kenwood Kitchen Machine Kmix Kmx750Wh-1000W|5L Mixing Bowl|K-Beater, Whipping Tool & Dough Kneading Tool" price={40000} image="https://m.media-amazon.com/images/I/71Q5iEc0PXL._SL1500_.jpg" rating={5}/> 
-                 <Product title= "White Westinghouse 12 KG Toughned Glass Semi Automatic Washing Machine with Hammer Wash Technology (SFW1200, white & black, Hammer Wash Technology)" price={11999}  image="https://m.media-amazon.com/images/I/51ae0NnOIzL._SY445_SX342_QL70_FMwebp_.jpg" rating={5}/> 
+                   <div className="home_row"> 
+                   <Product title= "the Lean startup- How Constant Innovations Create Radically Successful Businesses| Paperback'" price={399} image= "https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"   rating={5}/> 
+                   <Product title= "'De'Longhi Kenwood Kitchen Machine Kmix Kmx750Wh-1000W|5L Mixing Bowl|K-Beater, Whipping Tool & Dough Kneading Tool" price={40000} image="https://m.media-amazon.com/images/I/71Q5iEc0PXL._SL1500_.jpg" rating={5}/> 
+                   <Product title= "White Westinghouse 12 KG Toughned Glass Semi Automatic Washing Machine with Hammer Wash Technology (SFW1200, white & black, Hammer Wash Technology)" price={11999}  image="https://m.media-amazon.com/images/I/51ae0NnOIzL._SY445_SX342_QL70_FMwebp_.jpg" rating={5}/> 
                    </div> 
 
                     <div className="home_row"> 
