@@ -9,6 +9,7 @@ function header() {
           <img className="header-logo" src="https://www.nicepng.com/png/full/16-167642_amazon-logo-amazon-logo-white-text.png"/>
 
       <div className='header-location'> 
+
       <button id="find-me">Deliver to</button><br />
       <p id="status"></p>
       <a id="map-link" target="_blank"></a>
